@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32031909160",
+    "project_id": "lixo-sustentavel",
+    "storage_bucket": "lixo-sustentavel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32031909160:android:730135a6ea7d05e2045c1d",
+        "android_client_info": {
+          "package_name": "projeto.ifg.lixo_sustentavel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32031909160-u9suqk7b2ebnm38772sn1e95l0n20rsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXyOZOCuGLWGwkhkez1JfYy7SGXgq-5aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32031909160-u9suqk7b2ebnm38772sn1e95l0n20rsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
